@@ -1,4 +1,4 @@
-Hashie
+require Hashie
 Sinatra
 Octokit
 Pry
