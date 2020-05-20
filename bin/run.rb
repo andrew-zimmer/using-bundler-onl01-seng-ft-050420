@@ -1,4 +1,5 @@
-require Hashie
+require_relative '.Gemfile'
+Hashie
 Sinatra
 Octokit
 Pry
